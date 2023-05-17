@@ -1,13 +1,22 @@
 {
   "files": {
     "main.css": "/foodpoint-app/static/css/main.d035f90c.css",
-    "main.js": "/foodpoint-app/static/js/main.ccbd8576.js",
+    "main.js": "/foodpoint-app/static/js/main.be2ef10a.js",
+    "static/media/chola.jpg": "/foodpoint-app/static/media/chola.e791726fecfcd3d8c738.jpg",
+    "static/media/corn.webp": "/foodpoint-app/static/media/corn.b0c3a60db7d1044adde1.webp",
+    "static/media/pizza.jpg": "/foodpoint-app/static/media/pizza.54447245b49a13f7842c.jpg",
+    "static/media/rajmarice.jpeg": "/foodpoint-app/static/media/rajmarice.3e5b6f3990d30fcb8403.jpeg",
+    "static/media/allu pakodra.webp": "/foodpoint-app/static/media/allu pakodra.99854de8b2d926b0685a.webp",
+    "static/media/non veg thali.avif": "/foodpoint-app/static/media/non veg thali.5500fe75e7b8e710b6c0.avif",
+    "static/media/samosa.webp": "/foodpoint-app/static/media/samosa.331a573c636a5e5b0a70.webp",
+    "static/media/magi.jpg": "/foodpoint-app/static/media/magi.4c4c200bf64da763deda.jpg",
+    "static/media/sweet.webp": "/foodpoint-app/static/media/sweet.4b2e503174b935159fcd.webp",
     "index.html": "/foodpoint-app/index.html",
     "main.d035f90c.css.map": "/foodpoint-app/static/css/main.d035f90c.css.map",
-    "main.ccbd8576.js.map": "/foodpoint-app/static/js/main.ccbd8576.js.map"
+    "main.be2ef10a.js.map": "/foodpoint-app/static/js/main.be2ef10a.js.map"
   },
   "entrypoints": [
     "static/css/main.d035f90c.css",
-    "static/js/main.ccbd8576.js"
+    "static/js/main.be2ef10a.js"
   ]
 }
