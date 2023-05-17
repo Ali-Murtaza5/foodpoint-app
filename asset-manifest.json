@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/foodpoint-app/static/css/main.d035f90c.css",
+    "main.js": "/foodpoint-app/static/js/main.ccbd8576.js",
+    "index.html": "/foodpoint-app/index.html",
+    "main.d035f90c.css.map": "/foodpoint-app/static/css/main.d035f90c.css.map",
+    "main.ccbd8576.js.map": "/foodpoint-app/static/js/main.ccbd8576.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d035f90c.css",
+    "static/js/main.ccbd8576.js"
+  ]
+}
